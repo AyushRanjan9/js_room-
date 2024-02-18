@@ -1,0 +1,8 @@
+/ to insert elements
+
+//  let el = dicument.createElement ("div")
+. node.append(el) // at add at the end of the node ( inside )
+. node.prepend(el)// add at start of the  node (inside)
+. node.before(el)// add before the node (outside)
+.nodeafter(el)//add after the node(outside)
+/to delete elemwnt 
